@@ -3452,7 +3452,7 @@ input, select, textarea {
 
 			#intro {
 				padding: 1rem 4rem 2rem 4rem ;
-				min-height: 90vh;
+				min-height: 10vh;
 			}
 
 				#intro p br {
