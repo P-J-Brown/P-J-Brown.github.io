@@ -3451,7 +3451,7 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			#intro {
-				padding: 4rem 4rem 2rem 4rem ;
+				padding: 1rem 4rem 2rem 4rem ;
 				min-height: 90vh;
 			}
 
@@ -3459,7 +3459,9 @@ input, select, textarea {
 					display: none;
 				}
 
-				
+				#intro + #header {
+					margin-top: -14rem;
+				}
 
 		}
 
