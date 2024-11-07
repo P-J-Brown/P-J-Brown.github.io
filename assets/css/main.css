@@ -3468,8 +3468,8 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#intro {
-				padding: 0rem 2rem 1rem 2rem ;
-				min-height: 60vh;
+				padding: 2rem 2rem 1rem 2rem ;
+				min-height: 20vh;
 			}
 
 				#intro h1 {
@@ -3483,7 +3483,9 @@ input, select, textarea {
 					margin-top: 0rem;
 				}
 
-
+				#intro .actions {
+					display: none;
+				}
 
 		}
 
