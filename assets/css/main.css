@@ -3459,9 +3459,7 @@ input, select, textarea {
 					display: none;
 				}
 
-				#intro + #header {
-					margin-top: -1000rem;
-				}
+				
 
 		}
 
